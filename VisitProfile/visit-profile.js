@@ -8,6 +8,6 @@ function visitGitHubProfile(username, times) {
 }
 
 // Replace 'YOUR_USERNAME' with your actual GitHub username
-const username = 'SUDEEP-M-SHETTY';
+const username = 'YOUR_USERNAME';
 const visitCount = 50; // Change this number to the desired visit count
 visitGitHubProfile(username, visitCount);
